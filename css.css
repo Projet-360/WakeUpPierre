@@ -23,6 +23,10 @@ body {
   overflow: hidden;
 }
 
+body .starter {
+  z-index: 100;
+}
+
 body .container {
   display: -webkit-box;
   display: -ms-flexbox;
